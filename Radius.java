@@ -1,4 +1,4 @@
-Import.java.util.scanner
+import.java.util.scanner
 
 public class Circlecalculation {
     public static void main(String[] args) {
@@ -17,3 +17,4 @@ public class Circlecalculation {
         ki.close();
     }
 }
+
